@@ -43,9 +43,7 @@ This project is a web application built with Next.js 14 and Appwrite, aiming to 
 
 Contributions are welcome! Please open an issue or submit a pull request.
 
-## License
 
-This project is licensed under the MIT License.
 
 ## Acknowledgements
 
@@ -54,4 +52,4 @@ This project is licensed under the MIT License.
 
 ## Contact
 
-For any questions or feedback, please contact [your email address].
+For any questions or feedback, please contact sahdheeraj19@gmail.com.
